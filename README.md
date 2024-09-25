@@ -5,6 +5,7 @@ InvestTrack lets you simulate your investment journey! Input a stock ticker, set
 Visualize your regular investments against your current portfolio value and see what could have been! 💡📈
 
 # Application Link
+https://investtrack.streamlit.app/
 
 # Technologies Used
 * pandas -- Data manipulation and analysis

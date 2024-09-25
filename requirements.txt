@@ -1,7 +1,6 @@
 matplotlib==3.9.2
 pandas==2.2.3
 python_dateutil==2.8.2
-python_dateutil==2.9.0.post0
 streamlit==1.38.0
 streamlit_pills==0.3.0
 yfinance==0.2.43
